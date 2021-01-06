@@ -2,7 +2,7 @@
 💿 BlueEagle Endless RAT V 0.0 [Windows RAT / Linux RAT / MAC RAT] 
 [Windows RAT] [Linux RAT] [MAC RAT] 
 <p align="center">
-<img src="https://raw.githubusercontent.com/SaherBlueEagle/BlueEagle-Endless-RAT/blob/main/wlas.png" ><br>
+<img src="https://raw.githubusercontent.com/SaherBlueEagle/BlueEagle-Endless-RAT/main/wlas.png" ><br>
 
 </p>
 
